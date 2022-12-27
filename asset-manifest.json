@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.15e69d1d.css",
-    "main.js": "/static/js/main.0e1d819f.js",
+    "main.js": "/static/js/main.f0d7ab47.js",
     "static/media/dna.png": "/static/media/dna.5e62a2b4af5b789dee93.png",
     "static/media/orbit.png": "/static/media/orbit.3fb1d279ea7f0570c861.png",
     "static/media/Afzal-Qureshi-Resume.pdf": "/static/media/Afzal-Qureshi-Resume.48604a16b021234f39eb.pdf",
@@ -16,10 +16,10 @@
     "index.html": "/index.html",
     "static/media/java.svg": "/static/media/java.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.15e69d1d.css.map": "/static/css/main.15e69d1d.css.map",
-    "main.0e1d819f.js.map": "/static/js/main.0e1d819f.js.map"
+    "main.f0d7ab47.js.map": "/static/js/main.f0d7ab47.js.map"
   },
   "entrypoints": [
     "static/css/main.15e69d1d.css",
-    "static/js/main.0e1d819f.js"
+    "static/js/main.f0d7ab47.js"
   ]
 }
