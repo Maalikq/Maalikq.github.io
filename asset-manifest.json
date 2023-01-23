@@ -1,25 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.89e748a0.css",
-    "main.js": "/static/js/main.01d0d81b.js",
+    "main.js": "/static/js/main.c0345431.js",
     "static/media/dna.png": "/static/media/dna.5e62a2b4af5b789dee93.png",
     "static/media/orbit.png": "/static/media/orbit.3fb1d279ea7f0570c861.png",
     "static/media/Afzal-Qureshi-Resume.pdf": "/static/media/Afzal-Qureshi-Resume.48604a16b021234f39eb.pdf",
+    "static/media/reliance.png": "/static/media/reliance.a7564f23410564ceb7a9.png",
+    "static/media/snapdeal.png": "/static/media/snapdeal.8c08a3f933e40d32a80c.png",
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
     "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
     "static/media/dsa.png": "/static/media/dsa.fbf8bafb4c7b2b7c9c7c.png",
+    "static/media/netlify.png": "/static/media/netlify.603ef81c872f9df8c343.png",
     "static/media/me.png": "/static/media/me.a259f43b9154e6aeb427.png",
+    "static/media/cyclic.png": "/static/media/cyclic.354a2f2833d276019e77.png",
+    "static/media/vs.png": "/static/media/vs.8c2d9eafd187002bb248.png",
+    "static/media/npm.png": "/static/media/npm.8f4f861e71fa309c218a.png",
     "static/media/csss.png": "/static/media/csss.1a57e67ac1fd2ea84d64.png",
     "static/media/chakra.png": "/static/media/chakra.96fb75fe935906583ff8.png",
     "static/media/node.png": "/static/media/node.af3f8ae6261cc46e08c0.png",
+    "static/media/gitonly.png": "/static/media/gitonly.d1e870ccd89ffb42dec8.png",
     "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/index.html",
     "static/media/java.svg": "/static/media/java.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.89e748a0.css.map": "/static/css/main.89e748a0.css.map",
-    "main.01d0d81b.js.map": "/static/js/main.01d0d81b.js.map"
+    "main.c0345431.js.map": "/static/js/main.c0345431.js.map"
   },
   "entrypoints": [
     "static/css/main.89e748a0.css",
-    "static/js/main.01d0d81b.js"
+    "static/js/main.c0345431.js"
   ]
 }
